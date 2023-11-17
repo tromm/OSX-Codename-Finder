@@ -61,6 +61,7 @@ python3 getosxcodename.py --debug
 ### Notes
 
 - Ensure you have an internet connection when using the script without the `--version` parameter.
+- If Python 3 is not installed on your system, you can install it via Homebrew. More information about Homebrew can be found at Homebrew's website.
 - For systems with Python versions lower than 3.x, it is recommended to use a virtual environment
 with Python 3.x. For more information on setting up a virtual environment, please visit [Python's
 venv documentation](https://docs.python.org/3/library/venv.html).
